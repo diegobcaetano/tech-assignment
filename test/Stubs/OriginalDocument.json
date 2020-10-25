@@ -1,0 +1,64 @@
+{
+  "_id": "5f959d121d4d98fcab9c8b92",
+  "eyeColor": "green",
+  "name": "Hubbard Dorsey",
+  "gender": "male",
+  "friends": [
+    {
+      "_id": "5f959d1211e3bf83c6287a08",
+      "name": "Ballard Rosa",
+      "posts": [
+        {
+          "_id": "5f959d121e85e255baf8f6fe",
+          "title": "labore anim est"
+        },
+        {
+          "_id": "5f959d120d494d973b98b951",
+          "title": "id aute ut"
+        },
+        {
+          "_id": "5f959d129f70135026ff87d1",
+          "title": "magna ea ex"
+        }
+      ]
+    },
+    {
+      "_id": "5f959d1266fcb1f3470c41dc",
+      "name": "Meadows Hensley",
+      "posts": [
+        {
+          "_id": "5f959d12c44061b164dc37b9",
+          "title": "enim dolor aute"
+        }
+      ]
+    },
+    {
+      "_id": "5f959d12c92afcfbb3bd3a05",
+      "name": "Brandi Hoover",
+      "posts": [
+        {
+          "_id": "5f959d12e61e1a9a08ae19da",
+          "title": "consequat anim cupidatat"
+        },
+        {
+          "_id": "5f959d1285bcd22df6abcfb4",
+          "title": "mollit exercitation irure"
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "_id": "5f959d121890bb9dae379087",
+      "name": "voluptate"
+    },
+    {
+      "_id": "5f959d129ceb8829d6cf8520",
+      "name": "proident"
+    },
+    {
+      "_id": "5f959d123659f9e8587b2e82",
+      "name": "aute"
+    }
+  ]
+}
